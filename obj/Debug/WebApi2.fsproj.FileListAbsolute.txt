@@ -1,0 +1,15 @@
+C:\Dev\FSharp\WebApi2\WebApi2\bin\WebApi2.dll.config
+C:\Dev\FSharp\WebApi2\WebApi2\bin\WebApi2.dll
+C:\Dev\FSharp\WebApi2\WebApi2\bin\WebApi2.pdb
+C:\Dev\FSharp\WebApi2\WebApi2\bin\FSharp.Core.dll
+C:\Dev\FSharp\WebApi2\WebApi2\bin\Newtonsoft.Json.dll
+C:\Dev\FSharp\WebApi2\WebApi2\bin\System.Net.Http.Formatting.dll
+C:\Dev\FSharp\WebApi2\WebApi2\bin\System.Web.Http.dll
+C:\Dev\FSharp\WebApi2\WebApi2\bin\System.Web.Http.WebHost.dll
+C:\Dev\FSharp\WebApi2\WebApi2\bin\Newtonsoft.Json.xml
+C:\Dev\FSharp\WebApi2\WebApi2\bin\System.Net.Http.Formatting.xml
+C:\Dev\FSharp\WebApi2\WebApi2\bin\System.Web.Http.xml
+C:\Dev\FSharp\WebApi2\WebApi2\bin\System.Web.Http.WebHost.xml
+C:\Dev\FSharp\WebApi2\WebApi2\bin\FSharp.Core.xml
+C:\Dev\FSharp\WebApi2\WebApi2\obj\Debug\WebApi2.dll
+C:\Dev\FSharp\WebApi2\WebApi2\obj\Debug\WebApi2.pdb
